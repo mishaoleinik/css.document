@@ -1,0 +1,97 @@
+body {
+    margin-left: 30px;
+    margin-bottom: 200px;
+}
+
+h1 {
+    color: blue;
+}
+
+em {
+    color: blue;
+}
+
+li {
+    font-weight: 600;
+}
+
+li em {
+    font-size: 16px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0d6efd;
+    text-decoration: underline;
+}
+
+a:active {
+    color: brown;
+}
+
+a:visited {
+    color:grey;
+}
+
+.osnova {
+   font: normal 18px 'Roboto', sans-serif; 
+}
+
+  img {
+      width: 400px 600px;
+  }
+
+  .card-img-top {
+      width: 350px;
+  }
+  .card {
+      width: 350px;
+      border: 0.1mm ridge rgba(17, 17, 17, 0.6);
+      padding-bottom: 30px;
+      
+  }
+
+  .btn {
+      
+    margin-left: 10px;
+    border-radius:5px;
+    background-attachment: fixed;
+    background: #e45d80;
+    padding: 10px 15px;
+    color: #fff; 
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.card h5 {
+    font: normal 24px 'Roboto', sans-serif;
+    margin: 10px;
+}
+
+.card p {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.list-group-item {
+    list-style: none;
+    line-height: 2;
+    width: 200px;
+      border: 0.1mm ridge rgba(17, 17, 17, 0.6);
+      padding-bottom: 10px;
+      text-align: center;
+}
+
+
+
+
+
