@@ -1,6 +1,7 @@
 body {
     margin-left: 30px;
     margin-bottom: 200px;
+    max-width: 750px;
 }
 
 h1 {
